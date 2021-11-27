@@ -1,0 +1,18 @@
+Çalışılacak alanlar:
+
+Js Immutable, mutable ++
+Değişkenler ve değişken kavramları ++
+Const, let, var arasındaki farklar ++
+listeler, objectler, map ve set kavramları ++
+timer kavramları ve kullanımları ++
+looplar ++ 
+
+scope kavramları ??
+
+js array destructuring	++
+js object destructuring	++
+js spread operator	++
+js functions / arrow function / normal function	++
+js array objects ++
+js array methods  / reduce / map / filter /foreach / some / find / findindex ..eg	+
+js prototype , call , apply , bind	--
